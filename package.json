@@ -27,7 +27,7 @@
     "flow-remove-types": "^1.2.3",
     "gl": "^4.0.4",
     "jsdom": "^11.6.2",
-    "mapbox-gl": "fc/mapbox-g-jsl#fix-mock-bug",
+    "mapbox-gl": "fc/mapbox-gl-js#fix-mock-bug",
     "sinon": "^4.3.0"
   },
   "devDependencies": {
